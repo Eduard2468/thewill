@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: wheat;
+}
+
+h1 {
+    font-size: 34px;
+}
+#link {
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+}
